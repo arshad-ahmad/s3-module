@@ -1,6 +1,0 @@
-createTime: "0001-01-01T00:00:00Z"
-name: velatestbucket222222
-services:
-  velatestbucket222222:
-    type: aws-s3
-updateTime: "0001-01-01T00:00:00Z"
